@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_desc_layout_size">158dp</dimen>
+    <dimen name="backdropsize">220dp</dimen>
+    <dimen name="margin_layout">1dp</dimen>
+    <dimen name="padding_layout">2dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="size_text">14sp</dimen>
+    <dimen name="size_heading">17sp</dimen>
+</resources>
